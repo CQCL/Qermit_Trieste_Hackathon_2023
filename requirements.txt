@@ -1,0 +1,6 @@
+qermit
+notebook
+pandas
+seaborn
+pytket-qiskit
+jupyter_contrib_nbextensions
